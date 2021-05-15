@@ -1,3 +1,4 @@
+// DO NOT CHANGE ANYTHING IN THIS FILE
 document.addEventListener("DOMContentLoaded", () => {
     console.log("Page Loaded");
     var table = document.getElementById("contributors");
