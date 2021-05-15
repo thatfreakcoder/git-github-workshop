@@ -9,6 +9,9 @@ This repository is created for the 3 Day Workshop on **Git and GitHub** by Cytro
 ### How to Contribute
 - Fork this repository
 - Clone **YOUR REPOSITORY** into your local system by running `$ git clone https://github.com/<YOUR_USERNAME>/git-github-workshop.git`
-- Open CONTRIBUTORS.js and add your entries.
+- Create a new branch with your name by running `$ git checkout -b <yourname>`
+- Open `CONTRIBUTORS.js` and add your entries.
+- Open `README.md` and copy the first entry and modify it according to yourself.
 - Save file and commit to your repository.
-- Create a Pull Request to the Original Repository. 
+- Create a Pull Request to the Original Repository.
+- Your Pull Request will be merged Soon. 
