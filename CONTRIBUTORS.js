@@ -5,7 +5,13 @@ var contributors = [{
         year: 2
     },
     {
-        name: "Shivani",
+         name: "Manav Kumar",
+         username: "CodeCreatorLab",
+         college: "PIET",
+         year: 1
+     },
+     {
+         name: "Shivani",
         username: "shivanisrana",
         college: "PIET",
         year: 1
