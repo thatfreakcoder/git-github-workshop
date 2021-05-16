@@ -11,11 +11,11 @@ var contributors = [{
          year: 1
      },
      {
-         name: "Shivani",
-        username: "shivanisrana",
-        college: "PIET",
-        year: 1
-    },
+         name: "Shivani Singh",
+         username: "shivanisrana",
+         college: "PIET",
+         year: 1
+     },
     {
          name: "GOURAV JAIN",
          username: "gouravjain-piet",
