@@ -4,6 +4,12 @@ var contributors = [{
     college: "PIET",
     year: 2
 },
+{
+     name: "Rachit Agarwal",
+     username: "rachitag112",
+     college: "PIET",
+     year: 1
+},
 // {
 //     name: "YOUR NAME",
 //     username: "YOUR GITHUB USERNAME",
