@@ -5,9 +5,45 @@ var contributors = [{
         year: 2
     },
     {
-        name: "rahul",
-       username: "rahul-pixe",
-         college: "PCE",
-        year: 3
+         name: "Manav Kumar",
+         username: "CodeCreatorLab",
+         college: "PIET",
+         year: 1
+     },
+     {
+         name: "Shivani",
+        username: "shivanisrana",
+        college: "PIET",
+        year: 1
+    },
+    {
+         name: "GOURAV JAIN",
+         username: "gouravjain-piet",
+         college: "PIET",
+         year: 1
+     },
+     {
+         name: "Rachit Agarwal",
+         username: "rachitag112",
+         college: "PIET",
+         year: 1
+    },
+    {
+         name: "ANKIT KHEMANI",
+         username: "ankit-khemani",
+         college: "PIET",
+         year: 1
+     },
+     {
+         name: "Amit Kumar",
+         username: "Amitkumar270802",
+         college: "PIET",
+         year: 1
+      },
+      {
+          name: "rahul",
+          username: "rahul-pixe",
+          college: "PCE",
+          year: 3
      },
 ]
