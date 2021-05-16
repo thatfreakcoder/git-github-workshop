@@ -8,6 +8,6 @@ var contributors = [{
          name: "Rachit Agarwal",
          username: "rachitag112",
          college: "PIET",
-         year: 2
+         year: 1
     },
 ]
