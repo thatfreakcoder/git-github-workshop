@@ -16,4 +16,10 @@ var contributors = [{
         college: "PIET",
         year: 1
     },
+    {
+         name: "GOURAV JAIN",
+         username: "gouravjain-piet",
+         college: "PIET",
+         year: 1
+     },
 ]
