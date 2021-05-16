@@ -50,7 +50,7 @@ var contributors = [{
          name: "Harshit Kasotiya",
          username: "4Harshit",
          college: "PGI",
-         year: 1st
+         year: 1
       },
       {
         name: "Chanchal Sharma",
@@ -58,4 +58,10 @@ var contributors = [{
          college: "PIET",
          year: 2
      },
+     {
+        name: "Tanishk Bansal",
+        username: "Tanishkbansal-04",
+        college: "PIET",
+        year: 1
+    },
 ]
