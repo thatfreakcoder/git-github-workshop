@@ -46,4 +46,10 @@ var contributors = [{
           college: "PCE",
           year: 3
      },
+     {
+         name: "Harshit Kasotiya",
+         username: "4Harshit",
+         college: "PGI",
+         year: 1st
+      },
 ]
