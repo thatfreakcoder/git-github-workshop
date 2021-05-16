@@ -4,10 +4,10 @@ var contributors = [{
         college: "PIET",
         year: 2
     },
-    // {
-    //     name: "YOUR NAME",
-    //     username: "YOUR GITHUB USERNAME",
-    //     college: "YOUR COLLEGE NAME",
-    //     year: 3
-    // },
+     {
+         name: "Shivani Singh",
+         username: "shivanisrana",
+         college: "PIET",
+         year: 1
+     },
 ]
