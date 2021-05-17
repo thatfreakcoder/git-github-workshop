@@ -69,5 +69,12 @@ var contributors = [{
          username: "cyber-vg",
          college: "PIET",
          year: 2
-     },
+    
+        },
+        {
+            name: "Abhishek Joshi",
+            username: "abhi5157",
+            college: "PIET",
+            year: 1
+        },
 ]
