@@ -2,7 +2,7 @@ var contributors = [{
         name: "Yuvraj Dagur",
         username: "thatfreakcoder",
         college: "PIET",
-        year: 2
+        year: 1
     },
     // {
     //     name: "YOUR NAME",
