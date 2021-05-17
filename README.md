@@ -15,7 +15,8 @@ This repository is created for the 3 Day Workshop on **Git and GitHub** by Cytro
 |Harshit Kasotiya|[4Harshit](https://github.com/4Harshit)|PGI|1st Year|
 |Chanchal Sharma|[ChanchalSharma51](https://github.com/ChanchalSharma51)|PIET|1st Year|
 |Tanishk Bansal|[Tanishkbansal-04](https://github.com/Tanishkbansal-04)|PIET|1st Year|
-|Vaibhav Gupta|[CodeCreatorLab](https://github.com/cyber-vg)|PIET|2nd Year|
+|Vaibhav Gupta|[cyber-vg](https://github.com/cyber-vg)|PIET|2nd Year|
+|Abhishek Joshi|[abhi5157](https://github.com/abhi5157)|PIET|2nd Year|
 
 ### How to Contribute
 - Fork this repository
